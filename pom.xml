@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.ravila.cica</groupId>
-	<artifactId>Demo-war</artifactId>
+	<artifactId>CicaFantasy</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>Demo-war</name>
-	<description>Demo Spring Boot</description>
+	<name>CicaFantasy</name>
+	<description>Cica Fantasy league - for fun</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
